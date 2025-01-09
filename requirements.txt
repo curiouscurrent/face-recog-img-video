@@ -2,3 +2,4 @@ opencv-python
 face_recognition
 streamlit
 numpy
+dlib
