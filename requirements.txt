@@ -1,5 +1,5 @@
 opencv-python
-face_recognition
+face-recognition
 streamlit
 numpy
-dlib
+dlib==19.22.1  # 
