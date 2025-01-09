@@ -2,4 +2,4 @@ opencv-python
 face-recognition
 streamlit
 numpy
-dlib==19.22.1  
+
