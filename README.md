@@ -7,7 +7,4 @@ The project is a Face Detection and Video Processing Application that allows use
 2. Detect the uploaded human face from the video.
 
 ## Demo:
-<video width="640" height="360" controls>
-  <source src="output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to view the output video](./output.mp4)
