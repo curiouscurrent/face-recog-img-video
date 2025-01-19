@@ -5,4 +5,4 @@ The project is a Face Detection and Video Processing Application that allows use
 ## Steps:
 1. Upload video and human face.
 2. Detect the uploaded human face from the video.
-https://github.com/curiouscurrent/face-recog-img-video/blob/main/output.mp4
+https://github.com/user-attachments/assets/f2c561e4-72b7-4619-adb0-c09961446e9a
