@@ -4,14 +4,13 @@ The project is a Face Detection and Video Processing Application that allows use
 
 ## Steps:
 1. Upload video and human face.
-2. Detect the uploaded human face from the video.
+
+
+
+https://github.com/user-attachments/assets/9cb208b6-8d59-456f-b5b6-8b1c15405209
 
 
 
 
-
-
-
-
-https://github.com/user-attachments/assets/65d463a8-a7c5-4ee2-a0dd-1f9eb20aa129
+![dad](https://github.com/user-attachments/assets/d51915aa-da28-4475-8bf1-156e59b16bd5)
 
