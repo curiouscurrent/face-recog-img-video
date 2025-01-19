@@ -7,4 +7,5 @@ The project is a Face Detection and Video Processing Application that allows use
 2. Detect the uploaded human face from the video.
 
 ## Demo:
-[Click here to view the output video](./output.mp4)
+
+https://user-images.githubusercontent.com/.../output.mp4
